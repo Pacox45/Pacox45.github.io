@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paco Colom - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Paco Colom Martin</h1>
+        <p>Engineer Mechanichal | Personal Projects </p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Welcome! I'm a creative and dedicated individual passionate about building beautiful web experiences. This is where you write about yourself.</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Project 1:</strong> Description of your first project.</li>
+            <li><strong>Project 2:</strong> Description of your second project.</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: pacocolomartin@gmail.com</p>
+        <p>GitHub: <a href="https://github.com/pacox45" target="_blank">Pacox45</a></p>
+    </section>
+    <footer>
+        <p>© 2025 Paco Colom</p>
+    </footer>
+</body>
+</html>
